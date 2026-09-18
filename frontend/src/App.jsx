@@ -145,6 +145,7 @@ function App() {
                 <th>GPA</th>
                 <th>Status</th>
                 <th>Actions</th>
+                <th>Temp</th>
               </tr>
             </thead>
             <tbody>
